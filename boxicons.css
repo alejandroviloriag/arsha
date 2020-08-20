@@ -4,12 +4,12 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('../fonts/boxicons.eot');
-    src: url('../fonts/boxicons.eot') format('embedded-opentype'),
-    url('../fonts/boxicons.woff2') format('woff2'),
-    url('../fonts/boxicons.woff') format('woff'),
-    url('../fonts/boxicons.ttf') format('truetype'),
-    url('../fonts/boxicons.svg?#boxicons') format('svg');
+    src: url('https://rawcdn.githack.com/alejandroviloriag/arsha/eb50fd0956976bdfc257675c4adcb3db1085cf72/boxicons.eot');
+    src: url('https://rawcdn.githack.com/alejandroviloriag/arsha/eb50fd0956976bdfc257675c4adcb3db1085cf72/boxicons.eot') format('embedded-opentype'),
+    url('https://rawcdn.githack.com/alejandroviloriag/arsha/eb50fd0956976bdfc257675c4adcb3db1085cf72/boxicons.woff2') format('woff2'),
+    url('https://rawcdn.githack.com/alejandroviloriag/arsha/eb50fd0956976bdfc257675c4adcb3db1085cf72/icofont.woff') format('woff'),
+    url('https://rawcdn.githack.com/alejandroviloriag/arsha/eb50fd0956976bdfc257675c4adcb3db1085cf72/boxicons.ttf') format('truetype'),
+    url('https://rawcdn.githack.com/alejandroviloriag/arsha/eb50fd0956976bdfc257675c4adcb3db1085cf72/boxicons.svg?#boxicons') format('svg');
 }
 .bx
 {
